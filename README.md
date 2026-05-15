@@ -1,5 +1,7 @@
 # MultiMonitor-yt-sync
 
+> [日本語版はこちら](README.ja.md)
+
 Play a YouTube video across multiple monitors in sync — one click, no drift.
 
 ## Overview
